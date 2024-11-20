@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+textarea {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+  box-sizing: border-box;
+}
